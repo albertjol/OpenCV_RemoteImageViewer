@@ -11,5 +11,6 @@ It expects an image encoded as JPEG, (ending with 0xFFD9) ([wiki](https://en.wik
 For the client side: see examples
 
 ## Todo
+- Make it robust against disconnects, etc.
 - Maybe i'll extend it so you can use it like imshow, where it throws a window for every image
 - Add controls so you can change parameters on the fly
